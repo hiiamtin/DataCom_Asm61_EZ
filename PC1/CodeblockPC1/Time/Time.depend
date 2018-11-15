@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1525246116 source:c:\users\oakk\desktop\time\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"Serial.h"
+	<iostream>
+	<cmath>
+	<string>
+	<string.h>
+	"DCImg.h"
+	"DCSerial.h"
+
+1525239686 c:\users\oakk\desktop\time\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525201063 c:\users\oakk\desktop\time\dcimg.h
+	<iostream>
+
+1525173980 c:\users\oakk\desktop\time\dcserial.h
+
+1525268006 source:c:\users\cop100per\desktop\time\main.cpp
+	<stdio.h>
+	<tchar.h>
+	<conio.h>
+	<stdlib.h>
+	"Serial.h"
+	<iostream>
+	<cmath>
+	<string>
+	<string.h>
+	"DCImg.h"
+	"DCSerial.h"
+
+1525239686 c:\users\cop100per\desktop\time\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525201063 c:\users\cop100per\desktop\time\dcimg.h
+	<iostream>
+
+1525173980 c:\users\cop100per\desktop\time\dcserial.h
+
